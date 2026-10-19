@@ -1,16 +1,11 @@
-# Yiwen Hu — Photography 2026
+# Yiwen Hu — Photography
 
-Personal photography archive organised by the locations supplied by the photographer.
+Static photography portfolio. The navigation has three collections: UK, France, and Nottingham (Late August).
 
-UK:
-- Nottingham — 6 photographs
-- York — 2 photographs (including the stained-glass photograph)
+## Run locally
+Open `index.html` in a browser, or serve this folder with any static web server.
 
-France:
-- Nice — 2 photographs
-- Èze — 3 photographs
-- Arles — 4 photographs
-- Avignon — 2 photographs
-- Versailles — 4 photographs
+## Images
+The 14 new Nottingham late-August photographs are in `images/24.webp` through `images/37.webp`.
 
-23 photographs total. Static HTML/CSS/JS site, ready for deployment to a static hosting service.
+The HTML also references the original 23 images (`images/01.webp` through `images/23.webp`) from the earlier portfolio. Those original image files were not included in the files supplied for this update, so restore them to the `images/` folder to make the older UK and France collections and the full archive display correctly.
